@@ -1,0 +1,223 @@
+('Elemento valido', ['69082'])
+('Elemento valido', ['67468'])
+('Elemento valido', ['67470'])
+El elemento no se encuentra
+('Elemento invaldo', ['57530'])
+('Elemento valido', ['69080'])
+('Elemento valido', ['69079'])
+('Elemento valido', ['67471'])
+('Elemento valido', ['67469'])
+El elemento no se encuentra
+('Elemento invaldo', ['57531'])
+('Elemento valido', ['67473'])
+('Elemento valido', ['67477'])
+('Elemento valido', ['69067'])
+('Elemento valido', ['67475'])
+('Elemento valido', ['67483'])
+('Elemento valido', ['69081'])
+('Elemento valido', ['67484'])
+('Elemento valido', ['67480'])
+('Elemento valido', ['67481'])
+('Elemento valido', ['69083'])
+('Elemento valido', ['67482'])
+('Elemento valido', ['69084'])
+('Elemento valido', ['69068'])
+('Elemento valido', ['58115'])
+El elemento no se encuentra
+('Elemento invaldo', ['58345'])
+('Elemento valido', ['69085'])
+El elemento no se encuentra
+('Elemento invaldo', ['57554'])
+El elemento no se encuentra
+('Elemento invaldo', ['57555'])
+El elemento no se encuentra
+('Elemento invaldo', ['57557'])
+('Elemento valido', ['69070'])
+('Elemento valido', ['58116'])
+('Elemento valido', ['58117'])
+('Elemento valido', ['69071'])
+El elemento no se encuentra
+('Elemento invaldo', ['57573'])
+('Elemento valido', ['58118'])
+El elemento no se encuentra
+('Elemento invaldo', ['58349'])
+('Elemento valido', ['58119'])
+('Elemento valido', ['58120'])
+('Elemento valido', ['58122'])
+El elemento no se encuentra
+('Elemento invaldo', ['58352'])
+('Elemento valido', ['58124'])
+('Elemento valido', ['58130'])
+('Elemento valido', ['58133'])
+('Elemento valido', ['58135'])
+('Elemento valido', ['58145'])
+('Elemento valido', ['58177'])
+('Elemento valido', ['58179'])
+('Elemento valido', ['58180'])
+El elemento no se encuentra
+('Elemento invaldo', ['38520'])
+('Elemento valido', ['36239'])
+El elemento no se encuentra
+('Elemento invaldo', ['36297'])
+El elemento no se encuentra
+('Elemento invaldo', ['36293'])
+El elemento no se encuentra
+('Elemento invaldo', ['36299'])
+El elemento no se encuentra
+('Elemento invaldo', ['38517'])
+El elemento no se encuentra
+('Elemento invaldo', ['38516'])
+El elemento no se encuentra
+('Elemento invaldo', ['37636'])
+('Elemento valido', ['37776'])
+('Elemento valido', ['37779'])
+('Elemento valido', ['38027'])
+('Elemento valido', ['38028'])
+('Elemento valido', ['38078'])
+('Elemento valido', ['38031'])
+('Elemento valido', ['36236'])
+('Elemento valido', ['36251'])
+El elemento no se encuentra
+('Elemento invaldo', ['36289'])
+El elemento no se encuentra
+('Elemento invaldo', ['58482'])
+El elemento no se encuentra
+('Elemento invaldo', ['58481'])
+('Elemento valido', ['42509'])
+('Elemento valido', ['42190'])
+('Elemento valido', ['42191'])
+('Elemento valido', ['42192'])
+('Elemento valido', ['42195'])
+('Elemento valido', ['42196'])
+('Elemento valido', ['42199'])
+('Elemento valido', ['42200'])
+('Elemento valido', ['41844'])
+('Elemento valido', ['37931'])
+('Elemento valido', ['37932'])
+('Elemento valido', ['41240'])
+('Elemento valido', ['41241'])
+('Elemento valido', ['41242'])
+('Elemento valido', ['41244'])
+('Elemento valido', ['41245'])
+('Elemento valido', ['42021'])
+('Elemento valido', ['41248'])
+('Elemento valido', ['41249'])
+('Elemento valido', ['41254'])
+('Elemento valido', ['42023'])
+('Elemento valido', ['41251'])
+('Elemento valido', ['42022'])
+El elemento no se encuentra
+('Elemento invaldo', ['36294'])
+El elemento no se encuentra
+('Elemento invaldo', ['87446'])
+('Elemento valido', ['41845'])
+El elemento no se encuentra
+('Elemento invaldo', ['41927'])
+('Elemento valido', ['36240'])
+El elemento no se encuentra
+('Elemento invaldo', ['85398'])
+El elemento no se encuentra
+('Elemento invaldo', ['85399'])
+El elemento no se encuentra
+('Elemento invaldo', ['36292'])
+El elemento no se encuentra
+('Elemento invaldo', ['36295'])
+El elemento no se encuentra
+('Elemento invaldo', ['36296'])
+El elemento no se encuentra
+('Elemento invaldo', ['70128'])
+('Elemento valido', ['41850'])
+('Elemento valido', ['36250'])
+('Elemento valido', ['36249'])
+El elemento no se encuentra
+('Elemento invaldo', ['36290'])
+El elemento no se encuentra
+('Elemento invaldo', ['38452'])
+('Elemento valido', ['38036'])
+('Elemento valido', ['38037'])
+El elemento no se encuentra
+('Elemento invaldo', ['36259'])
+El elemento no se encuentra
+('Elemento invaldo', ['36260'])
+('Elemento valido', ['38034'])
+('Elemento valido', ['38035'])
+El elemento no se encuentra
+('Elemento invaldo', ['85902'])
+El elemento no se encuentra
+('Elemento invaldo', ['85903'])
+El elemento no se encuentra
+('Elemento invaldo', ['85904'])
+El elemento no se encuentra
+('Elemento invaldo', ['85905'])
+El elemento no se encuentra
+('Elemento invaldo', ['85906'])
+El elemento no se encuentra
+('Elemento invaldo', ['85907'])
+El elemento no se encuentra
+('Elemento invaldo', ['85908'])
+El elemento no se encuentra
+('Elemento invaldo', ['85910'])
+El elemento no se encuentra
+('Elemento invaldo', ['85911'])
+('Elemento valido', ['37934'])
+('Elemento valido', ['36244'])
+('Elemento valido', ['36245'])
+El elemento no se encuentra
+('Elemento invaldo', ['36291'])
+('Elemento valido', ['38047'])
+('Elemento valido', ['38024'])
+('Elemento valido', ['38025'])
+('Elemento valido', ['37935'])
+El elemento no se encuentra
+('Elemento invaldo', ['38518'])
+El elemento no se encuentra
+('Elemento invaldo', ['37640'])
+El elemento no se encuentra
+('Elemento invaldo', ['37641'])
+El elemento no se encuentra
+('Elemento invaldo', ['38519'])
+El elemento no se encuentra
+('Elemento invaldo', ['70127'])
+El elemento no se encuentra
+('Elemento invaldo', ['42087'])
+('Elemento valido', ['36301'])
+El elemento no se encuentra
+('Elemento invaldo', ['36310'])
+('Elemento valido', ['36247'])
+('Elemento valido', ['36246'])
+El elemento no se encuentra
+('Elemento invaldo', ['36258'])
+El elemento no se encuentra
+('Elemento invaldo', ['36256'])
+El elemento no se encuentra
+('Elemento invaldo', ['57771'])
+El elemento no se encuentra
+('Elemento invaldo', ['57775'])
+El elemento no se encuentra
+('Elemento invaldo', ['57782'])
+('Elemento valido', ['37933'])
+('Elemento valido', ['37784'])
+('Elemento valido', ['37782'])
+('Elemento valido', ['37780'])
+('Elemento valido', ['37781'])
+El elemento no se encuentra
+('Elemento invaldo', ['36255'])
+El elemento no se encuentra
+('Elemento invaldo', ['36257'])
+El elemento no se encuentra
+('Elemento invaldo', ['37634'])
+El elemento no se encuentra
+('Elemento invaldo', ['41926'])
+('Elemento valido', ['36243'])
+('Elemento valido', ['41848'])
+El elemento no se encuentra
+('Elemento invaldo', ['38619'])
+El elemento no se encuentra
+('Elemento invaldo', ['38621'])
+('Elemento valido', ['38048'])
+El elemento no se encuentra
+('Elemento invaldo', ['87474'])
+('Elemento valido', ['36242'])
+('Elemento valido', ['36248'])
+('Elemento valido', ['38032'])
+('Elemento valido', ['38033'])
