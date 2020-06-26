@@ -15,7 +15,11 @@ user = 'x1055082'
 passw = 'KaFaA1wz' 
 time_to_sleep = 10
 data_files = ['Java_Update_PLT3.csv','Java_Update_W_Fixes_PLT1.csv','Java_Update_W_Fixes_PLT3.csv']
-urls = ['https://pdtjira.eps.ti.com/secure/Tests.jspa#/testCycle/NSS-C57','https://pdtjira.eps.ti.com/secure/Tests.jspa#/testCycle/NSS-C58','https://pdtjira.eps.ti.com/secure/Tests.jspa#/testCycle/NSS-C59']
+urls = [
+    'https://pdtjira.eps.ti.com/secure/Tests.jspa#/testCycle/NSS-C57',
+    'https://pdtjira.eps.ti.com/secure/Tests.jspa#/testCycle/NSS-C58',
+    'https://pdtjira.eps.ti.com/secure/Tests.jspa#/testCycle/NSS-C59'
+    ]
 data_file_element= 1
 
 chrome_options =  Options()
